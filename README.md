@@ -1,7 +1,7 @@
-# children-out-of-school-dashboard
+# Children Out of School in Primary Age Dashboard
 Interactive dashboard and exploratory analysis of primary school-age children out of school using R and Shiny.
 
-# Children Out of School in Primary Age Dashboard
+
 ## Project Overview
 This project analyzes the global distribution of primary school-age children who are out of school using Unicef data.
 The objective is to identify trends, geographic patterns, and socioeconomic factors associated with educational exclusion.
@@ -48,6 +48,7 @@ Activities performed:
 Purpose:
 To identify incomplete records and ensure the reliability of subsequent analyses.
 
+
 2. Data Cleaning
 To improve data quality, records with missing values in critical fields were removed.
 
@@ -87,6 +88,7 @@ Purpose:
 - Monitor changes over time.
 - Identify periods of improvement or deterioration.
 
+
 2. Identify Geographic Hotspots
 Research Question: Which countries contribute the largest share of out-of-school children globally?
 
@@ -100,6 +102,7 @@ Purpose:
 - Compare countries spatially.
 - Detect regional patterns.
 
+
 3. Analyze the Impact of Income Level
 Research Question: Is there a relationship between income level and the number of out-of-school children?
 
@@ -112,6 +115,7 @@ Purpose:
 - Compare educational outcomes across income groups.
 - Identify variation within each category.
 - Detect potential outliers.
+
 
 ## Dashboard Features
 The interactive dashboard allows users to:
@@ -145,7 +149,8 @@ The interactive dashboard allows users to:
 - Geospatial Analysis
 - Statistical Interpretation
 - Data Storytelling
-
 - Data Visualization
+
+
 - Geospatial Analysis
 - Dashboard Development
