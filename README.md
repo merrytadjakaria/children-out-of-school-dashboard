@@ -37,7 +37,7 @@ Key variables include:
 
 
 ## Data Cleaning and Preparation
-1. Data Quality Assessment
+### Data Quality Assessment
 The dataset was imported from Excel and reviewed to assess completeness and structure.
 
 Activities performed:
@@ -49,7 +49,7 @@ Purpose:
 To identify incomplete records and ensure the reliability of subsequent analyses.
 
 
-2. Data Cleaning
+### Data Cleaning
 To improve data quality, records with missing values in critical fields were removed.
 
 Variables checked:
@@ -75,7 +75,7 @@ To support time-series analysis, dashboard interactivity, and efficient visualiz
 
 
 ## Analysis and Visualization
-1. Analyze Trends by Gender
+### Analyze Trends by Gender
 Research Question: How has the number of out-of-school children changed over time for boys and girls?
 
 Methodology:
@@ -89,7 +89,7 @@ Purpose:
 - Identify periods of improvement or deterioration.
 
 
-2. Identify Geographic Hotspots
+### Identify Geographic Hotspots
 Research Question: Which countries contribute the largest share of out-of-school children globally?
 
 Methodology:
@@ -103,7 +103,7 @@ Purpose:
 - Detect regional patterns.
 
 
-3. Analyze the Impact of Income Level
+### Analyze the Impact of Income Level
 Research Question: Is there a relationship between income level and the number of out-of-school children?
 
 Methodology:
