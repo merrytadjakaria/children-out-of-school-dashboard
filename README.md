@@ -150,9 +150,10 @@ The interactive dashboard allows users to:
 - Statistical Interpretation
 - Data Storytelling
 - Data Visualization
+- Geospatial Analysis
+- Dashboard Development
 
 ## Dashboard
 https://merrytadjakaria.shinyapps.io/Education_Dashboard/
 
-- Geospatial Analysis
-- Dashboard Development
+
